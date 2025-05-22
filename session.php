@@ -1,0 +1,1 @@
+<input type="hidden" id="ranks" value="<?php echo $_SESSION['bday']; ?>">
